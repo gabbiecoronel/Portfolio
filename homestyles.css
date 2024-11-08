@@ -1,0 +1,17 @@
+h1 {
+    padding-top: 3%;
+    padding-left: 3%;
+    font-family: 'Mulish', serif;
+    font-style: bold;
+}
+
+p {
+    padding: 2% 10% 10% 3%;
+    width: 45%;
+    font-size: 130%;
+    font-family: 'Montserrat', serif;
+}
+
+.background {
+    background-color: #E4CDF9;
+}
